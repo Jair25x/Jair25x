@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Jair!  
+💻 Desarrollador Backend | Apasionado por la tecnología y la automatización  
 
-<!--
-**Jair25x/Jair25x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologías y herramientas que manejo  
+- 🔹 **Lenguajes:** Java, JavaScript  
+- 🏗 **Frameworks:** Spring Boot, Express.js  
+- 🗄 **Bases de Datos:** PostgreSQL, MongoDB  
+- 🔧 **Herramientas:** Git, GitHub, Docker, Postman  
+- 🖥 **Infraestructura:** Linux, Nginx  
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats  
+![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jair25x&show_icons=true&theme=dark)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Conéctate conmigo  
+- LinkedIn: [TuPerfil](www.linkedin.com/in/jair-almanza-cuno-61038b208)  
+
