@@ -30,5 +30,4 @@
 ---
 
 ## 📈 GitHub Stats  
-![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jair25x&show_icons=true&theme=dark) ## 📊 Lenguajes más usados  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jair25x&layout=compact&theme=dark)
+![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jair25x&show_icons=true&theme=dark) 
