@@ -2,7 +2,7 @@
 
 <h2 align="center">💻 Desarrollador Backend | Apasionado por la tecnología y la automatización </h2>
 
-🌱 **Actualmente aprendiendo:**  [Angular]
+🌱 **Actualmente aprendiendo:** ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 👨‍💻 **Todos mis proyectos están disponibles en:**  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jair25x)  
 
@@ -30,4 +30,5 @@
 ---
 
 ## 📈 GitHub Stats  
-![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jair25x&show_icons=true&theme=dark)  
+![Jair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jair25x&show_icons=true&theme=dark) ## 📊 Lenguajes más usados  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jair25x&layout=compact&theme=dark)
