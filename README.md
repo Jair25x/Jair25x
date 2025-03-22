@@ -1,5 +1,6 @@
 <h1 align="center">👋 ¡Hola, soy Jair! </h1>
-💻 **Desarrollador Backend** | Apasionado por la tecnología y la automatización  
+
+<h2 align="center">💻 Desarrollador Backend | Apasionado por la tecnología y la automatización </h2>
 
 🌱 **Actualmente aprendiendo:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
